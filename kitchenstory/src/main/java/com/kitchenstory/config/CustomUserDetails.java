@@ -1,4 +1,4 @@
-package com.kitchenstory.config;
+git package com.kitchenstory.config;
 
 import java.util.Collection;
 import java.util.HashSet;
